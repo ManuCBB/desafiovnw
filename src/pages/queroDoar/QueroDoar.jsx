@@ -1,5 +1,5 @@
 import livrin from '../../assets/livrin.png';
-import S from './queroDoar.module.scss';
+import S from './querodoar.module.scss';
 
 export default function QueroDoar() {
   return (
