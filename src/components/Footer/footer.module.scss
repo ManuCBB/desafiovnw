@@ -1,0 +1,32 @@
+footer {
+
+    height: 20vh;
+    color: white;
+    padding-top: 22vh;
+}
+
+.boxredes {
+    background-color: rgba(0, 86, 149, 1);
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 50px;
+
+    nav {
+        width: 18vw;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+}
+
+.boxtext {
+    background-color: rgba(35, 32, 32, 1);
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
