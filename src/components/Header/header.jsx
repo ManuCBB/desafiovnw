@@ -1,5 +1,5 @@
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
-import LogoLivro from '../../assets/Logolivro.png';
+import LogoLivro from '../../assets/LogoLivro.png';
 import Lupa from '../../assets/Lupa.png';
 import Inicio from '../../pages/inicio/Inicio';
 import LivrosDoados from '../../pages/livrosDoados/LivrosDoados';
